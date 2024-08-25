@@ -4,6 +4,7 @@ import H2 from "../H2/H2.jsx";
 import Fruits from "../Fruits/Fruits.jsx";
 import ConditionalComponent from "../ConditionalComponent/ConditionalComponent.jsx";
 import Message from "../Message/Message.jsx";
+import Counter from "../Counter/Counter.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Fruits />
       <ConditionalComponent />
       <Message />
+      <Counter />
     </>
   );
 }
