@@ -5,6 +5,7 @@ import Fruits from "../Fruits/Fruits.jsx";
 import ConditionalComponent from "../ConditionalComponent/ConditionalComponent.jsx";
 import Message from "../Message/Message.jsx";
 import Counter from "../Counter/Counter.jsx";
+import Form from "../Form/Form.jsx";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <ConditionalComponent />
       <Message />
       <Counter />
+      <Form />
     </>
   );
 }
